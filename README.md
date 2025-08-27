@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ## ⚙️ Ejecutar el pipeline con Dagster
 
 dagster dev -m dagster_project.defs -p 8050
+
 Esto levanta la interfaz de Dagster en http://localhost:8050.
 
 🔎 EDA Manual
