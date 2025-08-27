@@ -44,16 +44,23 @@ data/outputs/.
 python scripts/eda_manual.py
 
 covid-pipeline/
+
 ├─ README.md
+
 ├─ requirements.txt
+
 ├─ .gitignore
+
 ├─ data/
 │  ├─ inputs/
 │  │  └─ covid-19.csv   
-│  └─ outputs/      
+│  └─ outputs/   
+
 ├─ scripts/
+
 │  └─ eda_manual.py   
 |___dagster_home/
+
 └─ dagster_project/
    ├─ __init__.py
    ├─ assets.py   
