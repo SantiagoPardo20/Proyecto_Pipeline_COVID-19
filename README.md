@@ -19,11 +19,11 @@ cd proyecto-covid
 
 ### 2. Crear y activar entorno virtual
 
-# En la raíz del repo
+En la raíz del repo
 python -m venv .venv
 
-# Activar entorno
-# Windows
+Activar entorno
+Windows
 .venv\Scripts\activate
 
 ### 3. Instalar dependencias
