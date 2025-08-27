@@ -45,8 +45,11 @@ python scripts/eda_manual.py
 
 covid-pipeline/
 ├─ README.md
+
 ├─ requirements.txt
+
 ├─ .gitignore
+
 ├─ data/
 │  ├─ inputs/
 │  │  └─ covid-19.csv              
