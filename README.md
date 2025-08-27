@@ -14,6 +14,7 @@ Incluye un **EDA manual** (análisis exploratorio de datos) y un pipeline orques
 ### 1. Clonar el repositorio
 
 git clone https://github.com/SantiagoPardo20/Proyecto_Pipeline_COVID-19.git
+
 cd proyecto-covid
 
 ### 2. Crear y activar entorno virtual
