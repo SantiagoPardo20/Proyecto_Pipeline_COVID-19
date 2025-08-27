@@ -22,8 +22,7 @@ cd proyecto-covid
 En la raíz del repo
 python -m venv .venv
 
-#Activar entorno
-#Windows
+## Activar Entorno
 .venv\Scripts\activate
 
 ### 3. Instalar dependencias
