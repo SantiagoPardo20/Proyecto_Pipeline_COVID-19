@@ -45,22 +45,17 @@ python scripts/eda_manual.py
 
 covid-pipeline/
 ├─ README.md
-
 ├─ requirements.txt
-
 ├─ .gitignore
-
 ├─ data/
 │  ├─ inputs/
-│  │  └─ covid-19.csv              
-│  └─ outputs/                    
+│  │  └─ covid-19.csv   
+│  └─ outputs/      
 ├─ scripts/
-│  └─ eda_manual.py                
+│  └─ eda_manual.py   
 |___dagster_home/
 └─ dagster_project/
    ├─ __init__.py
-   ├─ assets.py                   
+   ├─ assets.py   
    └─ defs.py
-bash
-Copiar código
-data/outputs/
+
