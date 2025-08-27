@@ -20,6 +20,7 @@ cd proyecto-covid
 ### 2. Crear y activar entorno virtual
 
 En la raíz del repo
+
 python -m venv .venv
 
 ## Activar Entorno
@@ -35,8 +36,11 @@ dagster dev -m dagster_project.defs -p 8050
 Esto levanta la interfaz de Dagster en http://localhost:8050.
 
 🔎 EDA Manual
-Genera la tabla de perfilado tabla_perfilado.csv en data/outputs/.
+Genera la tabla de perfilado tabla_perfilado.csv en 
 
+data/outputs/.
+
+# Ejecutar EDA manual
 python scripts/eda_manual.py
 
 covid-pipeline/
