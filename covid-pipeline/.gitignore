@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+data/outputs/*.xlsx
+data/outputs/*.csv
+.tmp_dagster_home_*/
