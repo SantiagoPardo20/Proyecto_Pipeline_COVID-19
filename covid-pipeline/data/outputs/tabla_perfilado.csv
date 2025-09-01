@@ -1,0 +1,7 @@
+metrica,columna,valor
+dtype,Entity,object
+dtype,Day,object
+dtype,"Cumulative excess deaths per 100,000 people (central estimate)",float64
+dtype,"Cumulative excess deaths per 100,000 people (95% CI, lower bound)",float64
+dtype,"Cumulative excess deaths per 100,000 people (95% CI, upper bound)",float64
+dtype,"Total confirmed deaths due to COVID-19 per 100,000 people",float64
